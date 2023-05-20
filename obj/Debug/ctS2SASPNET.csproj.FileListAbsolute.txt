@@ -1,0 +1,9 @@
+E:\Webseiten\ctS2SASPNET\bin\ctS2SASPNET.dll
+E:\Webseiten\ctS2SASPNET\bin\ctS2SASPNET.pdb
+E:\Webseiten\ctS2SASPNET\obj\Debug\ResolveAssemblyReference.cache
+E:\Webseiten\ctS2SASPNET\obj\Debug\ctS2SASPNET.dll
+E:\Webseiten\ctS2SASPNET\obj\Debug\ctS2SASPNET.pdb
+C:\Users\Ich\OneDrive\Escritorio\ctS2SASPNET\obj\Debug\ctS2SASPNET.dll
+C:\Users\Ich\OneDrive\Escritorio\ctS2SASPNET\obj\Debug\ctS2SASPNET.pdb
+C:\Users\Ich\OneDrive\Escritorio\ctS2SASPNET\obj\Debug\ctS2SASPNET.csproj.AssemblyReference.cache
+C:\Users\Ich\OneDrive\Escritorio\ctS2SASPNET\obj\Debug\ctS2SASPNET.csproj.CoreCompileInputs.cache

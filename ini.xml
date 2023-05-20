@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<paygate>
+  <input>
+    <values>
+      <amount>
+        <![CDATA[100]]>
+      </amount>
+      <transID>
+        <![CDATA[12345]]>
+      </transID>
+      <currency>
+        <![CDATA[EUR]]>
+      </currency>
+      <orderdesc>
+        <![CDATA[Your order]]>
+      </orderdesc>
+      <userdata>
+        <![CDATA[Your data]]>
+      </userdata>
+    </values>
+    <paytypes>
+      <pt0>
+        <name>
+          <![CDATA[Description/Check Page]]>
+        </name>
+        <url>
+          <![CDATA[decrypt.aspx]]>
+        </url>
+      </pt0>
+      <pt1>
+        <name>
+          <![CDATA[Creditcard Payment]]>
+        </name>
+        <url>
+          <![CDATA[https://www.netkauf.de/paygate/direct.aspx]]>
+        </url>
+      </pt1>
+      <pt2>
+        <name>
+          <![CDATA[Electronic Direct Debit]]>
+        </name>
+        <url>
+          <![CDATA[https://www.netkauf.de/paygate/edddirect.aspx]]>
+        </url>
+
+      </pt2>
+    </paytypes>
+  </input>
+  <payment>
+    <values>
+    <!-- !!! security !!! these values are normally extracted from a database. -->
+      <merchantID>
+        <![CDATA[ct_devtraining]]>
+      </merchantID>
+      <password>
+        <![CDATA[ct_devtraining]]>
+      </password>
+    </values>
+  </payment>
+</paygate>
